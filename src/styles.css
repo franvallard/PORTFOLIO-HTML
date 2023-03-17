@@ -1,0 +1,28 @@
+.bg-black{
+    background-color: black;
+}
+
+.list-group{
+    background-color: transparent;
+}
+
+.fa-brands.fa-instagram.fa-2x:hover {
+    --bs-text-opacity: 1;
+    color: rgb(194, 0, 194) !important;
+}
+
+.fa-brands.fa-youtube.fa-2x:hover {
+    --bs-text-opacity: 1;
+    color: red !important;
+}
+
+.fa-brands.fa-github.fa-2x:hover {
+    --bs-text-opacity: 1;
+    color: green !important;
+}
+
+footer.bg-black{
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+}
